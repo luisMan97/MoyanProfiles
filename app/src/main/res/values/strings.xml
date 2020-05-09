@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Moyan Profiles</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="descrption">Hola Vecis soy una niñera con todo el carimas, me encantan los niños y disfruto cuidar de ellos si me contratan estarán seguros y tranquilos que suu hijo estará en las mejores manos.</string>
+    <string name="angie_beltran">Angie Beltran</string>
+    <string name="ni_era">Niñera</string>
+    <string name="vecis">VECIS</string>
+    <string name="_2318">2318</string>
+    <string name="calificaci_n">CALIFICACIÓN</string>
+    <string name="seguidores">SEGUIDORES</string>
+    <string name="qu_necesitas">¿Qué Necesitas?</string>
+    <string name="chat_inteligente_de_solicitudes">Chat Inteligente de Solicitudes</string>
+    <string name="veci">VECI</string>
+</resources>
